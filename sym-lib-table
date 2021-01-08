@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Square Wave Generator")(type Legacy)(uri "${KIPRJMOD}/Square Wave Generator.lib")(options "")(descr ""))
+)
